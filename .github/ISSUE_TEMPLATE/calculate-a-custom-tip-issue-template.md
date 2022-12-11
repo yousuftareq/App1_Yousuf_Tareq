@@ -1,11 +1,3 @@
----
-name: Calculate a custom tip issue template
-about: 'Issue template for Calculate a custom tip '
-title: 'Calculate a custom tip: Android Basics in Compose  '
-labels: ''
-assignees: ''
-
----
 
 **URL of codelab**
 

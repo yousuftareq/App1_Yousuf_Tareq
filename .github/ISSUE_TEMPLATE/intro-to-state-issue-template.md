@@ -1,11 +1,4 @@
----
-name: Intro to state issue template
-about: 'Issue template for Intro to state in Compose '
-title: 'Intro to state in Compose: Android Basics in Compose'
-labels: ''
-assignees: ''
 
----
 
 **URL of codelab**
 
